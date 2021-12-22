@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @aug-vishnu
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m @aug-vishnu software engineer
+- 👀 Self-taught developer who is receptive to every emerging technological trend. 
+- 🌱 I’m exploring blockchain
+- 💞️ I’m receptive to every emerging technological trend. 
+- 📫 How to reach me vishnuprabhu.bvk@gmail.com
 
 <!---
 aug-vishnu/aug-vishnu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
