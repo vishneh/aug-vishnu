@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @aug-vishnu software engineer
 - 👀 Self-taught developer who is receptive to every emerging technological trend. 
-- 🌱 I’m exploring blockchain
 - 💞️ I’m receptive to every emerging technological trend. 
 - 📫 How to reach me vishnuprabhu.bvk@gmail.com
 
